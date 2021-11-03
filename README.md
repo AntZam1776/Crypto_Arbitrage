@@ -2,4 +2,5 @@
 
 ## To work through the Module_3 tasks as needed.
 
-[Challenge notes]
+[Challenge notes]Commit sessions notes
+
